@@ -654,4 +654,20 @@ video {
   .mxxxl\:h-\[60vh\] {
     height: 60vh;
   }
+
+  .mxxxl\:h-\[70vh\] {
+    height: 70vh;
+  }
+
+  .mxxxl\:h-\[50vh\] {
+    height: 50vh;
+  }
+
+  .mxxxl\:h-\[100vh\] {
+    height: 100vh;
+  }
+
+  .mxxxl\:h-\[80vh\] {
+    height: 80vh;
+  }
 }
